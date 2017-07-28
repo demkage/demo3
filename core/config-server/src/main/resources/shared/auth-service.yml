@@ -1,0 +1,14 @@
+server:
+  port: 1033
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+
+
+spring:
+  redis:
+    host: localhost
+    port: 6379

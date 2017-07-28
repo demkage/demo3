@@ -1,0 +1,12 @@
+server:
+  port: 1032
+
+security:
+  oauth2:
+    client:
+      clientId: authtest
+      clientSecret: authpass
+      accessTokenUri: http://localhost:1033/oauth/token
+      userAuthorizationUri: http://localhost:1033/oauth/authorize
+      grant-type: authorization_code
+      scope: auth

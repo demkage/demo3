@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micro/auth-service/auth-service.iml" filepath="$PROJECT_DIR$/micro/auth-service/auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/config-server/config-server.iml" filepath="$PROJECT_DIR$/core/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/core/discovery-service/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/core/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro/hello-service/hello-service.iml" filepath="$PROJECT_DIR$/micro/hello-service/hello-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro/parser-service/parser-service.iml" filepath="$PROJECT_DIR$/micro/parser-service/parser-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro/web-client/web-client.iml" filepath="$PROJECT_DIR$/micro/web-client/web-client.iml" />
+    </modules>
+  </component>
+</project>

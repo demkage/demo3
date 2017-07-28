@@ -1,0 +1,31 @@
+server:
+  port: 8080
+
+zuul:
+  routes:
+    parser:
+      path: /api/parser/**
+      serviceId: parser-service
+    auth:
+      path: /api/uaa/**
+      serviceId: auth-service
+    web:
+      path: /**
+      serviceId: web-service
+    hello:
+      path: /api/hello/**
+      serviceId: hello-service
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 20000
+
+ribbon:
+  eureka:
+    enabled: true
+    ReadTimeout: 20000
+    ConnectTimeout: 20000

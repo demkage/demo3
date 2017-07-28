@@ -1,0 +1,4 @@
+com/example/demo3/micro/web/config/ReactConfig.class
+com/example/demo3/micro/web/WebClientApplication.class
+com/example/demo3/micro/web/controller/HelloController.class
+com/example/demo3/micro/web/controller/ApiController.class

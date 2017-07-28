@@ -1,0 +1,9 @@
+/Users/abosii/IdeaProjects/demo3/micro/auth-service/src/main/java/com/example/demo3/auth/config/SessionConfig.java
+/Users/abosii/IdeaProjects/demo3/micro/auth-service/src/main/java/com/example/demo3/auth/domain/User.java
+/Users/abosii/IdeaProjects/demo3/micro/auth-service/src/main/java/com/example/demo3/auth/service/security/MongoUserDetailsService.java
+/Users/abosii/IdeaProjects/demo3/micro/auth-service/src/main/java/com/example/demo3/auth/config/WebSecurityConfig.java
+/Users/abosii/IdeaProjects/demo3/micro/auth-service/src/main/java/com/example/demo3/auth/config/OAuth2AuthorizationConfig.java
+/Users/abosii/IdeaProjects/demo3/micro/auth-service/src/main/java/com/example/demo3/auth/controller/UserController.java
+/Users/abosii/IdeaProjects/demo3/micro/auth-service/src/main/java/com/example/demo3/auth/service/security/SingleUserDetailService.java
+/Users/abosii/IdeaProjects/demo3/micro/auth-service/src/main/java/com/example/demo3/auth/AuthServiceApplication.java
+/Users/abosii/IdeaProjects/demo3/micro/auth-service/src/main/java/com/example/demo3/auth/repository/UserDetailsRepository.java
